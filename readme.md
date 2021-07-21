@@ -1,4 +1,4 @@
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Dhakal's streak" src="https://raw.githubusercontent.com/sbmdkl/sbmdkl/main/assets/profile.png" />
+<img alt="Shubham Dhakal's streak" src="https://raw.githubusercontent.com/sbmdkl/sbmdkl/main/assets/profile.png" />
 
 ## Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> It's me Shubham Dhakal. I'm Full Stack Web Developer
 
